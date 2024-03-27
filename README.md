@@ -9,6 +9,9 @@
 **EXPLORATORY DATA ANALYSIS**
 
 **[WEC Analysis](https://github.com/FelipeLRoll/wec-analysis)**
+
+[![FIAWEC](https://img.shields.io/badge/FIA_WEC-Kaggle_Dataset-blue.svg)](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
+
 - **Description**
 - **Problems and objectives**
 - **Results**
