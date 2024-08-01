@@ -1,3 +1,7 @@
+# **AI Portfolio**
+
+**[AI Assistant](https://github.com/FelipeLRoll/ai_for_datasets)** 
+
 # **Data Science Portfolio**
 
 [![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
