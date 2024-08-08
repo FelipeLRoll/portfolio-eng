@@ -19,13 +19,16 @@
 
 ![](https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png)
 
-- **Description**
+- **Description:**
+  
   In this project, I performed a exploratory data analysis (EDA) on the FIA WEC season from 2012-2023 and Le Mans 2011 Race database.
   
-- **Objectives**
+- **Objectives:**
+  
   The main objective here is to test and improve my data analysis and uncover insights to some aspects of Endurance Racing.
   
-- **Results**
+- **Results:**
+  
   Results can be seen on the notebook as well as a simplyfied version on the [Readme](https://github.com/FelipeLRoll/wec-analysis/blob/main/README.md)
 <br>
 <br>
@@ -36,14 +39,16 @@
 
 ![](https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png)
 
-- **Description**
+- **Description:**
+  
   This project predicts the Avarage Salary per Month of Data Science Job Listings, included on [this DataSet](https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor).
   
-- **Objectives**
+- **Objectives:**
   * Predict the Avarage Salary per Month of Data Science Job Listings
   * Observing all the relevant columns that affect the salary
   * Testing and selecting the best model
   * Use Flask to build a client
   
-- **Results**
+- **Results:**
+  
   The result can be seen using the _prediction.ipynb_ class for a quick test, or by using Flask as instructed in the [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
