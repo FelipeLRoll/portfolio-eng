@@ -52,3 +52,11 @@
 - **Results:**
   
   The result can be seen using the _prediction.ipynb_ class for a quick test, or by using Flask as instructed in the [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
+
+
+# **Python Portfolio**
+
+**[Music Lyrics Finder](https://github.com/FelipeLRoll/letras_de_musica)** 
+
+**[Email Automation](https://github.com/FelipeLRoll/automatizacao_de_email)** 
+  
