@@ -54,4 +54,8 @@
 **[Music Lyrics Finder](https://github.com/FelipeLRoll/letras_de_musica)** 
 
 **[Email Automation](https://github.com/FelipeLRoll/automatizacao_de_email)** 
+
+**[Shares Dashboard](https://github.com/FelipeLRoll/dashboard-com-streamlit)** 
+
+
   
