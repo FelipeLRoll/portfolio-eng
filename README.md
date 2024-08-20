@@ -28,11 +28,13 @@
 <br>
 <br>
 
-**SALARY PREDICTION**
+**[DS Salary Prediction with Flask](https://github.com/FelipeLRoll/ds_salary)**
 
-**[DS Salary Prediction](https://github.com/FelipeLRoll/ds_salary)**
+**[DS Salary Prediction with Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit)**
 
 ![](https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png)
+
+* There are two versions of this project, one that uses [Flask](https://github.com/FelipeLRoll/ds_salary) and another that uses [Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit), the streamlit version is more recent and better overall, but i decided to keep both in here.
 
 - **Description:**
   
@@ -42,11 +44,13 @@
   * Predict the Avarage Salary per Month of Data Science Job Listings
   * Observing all the relevant columns that affect the salary
   * Testing and selecting the best model
-  * Use Flask to build a client
+  * Use Flask/Streamlit to build a webapp
   
 - **Results:**
   
-  The result can be seen using the _prediction.ipynb_ class for a quick test, or by using Flask as instructed in the [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
+  * The result for the flask webapp can be seen using the _prediction.ipynb_ class for a quick test, or by using Flask as instructed in the [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
+
+  * Results for the streamlit version can be seen [Here](https://ds-salary.streamlit.app)
 
 
 # **Python Portfolio**
