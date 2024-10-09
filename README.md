@@ -10,7 +10,21 @@
 
 **[Fraud Detection](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
-![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude)
+![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png)
+
+- **Description:**
+  
+  This project focuses on building a machine learning model to predict potential fraud in financial transactions. The dataset includes various features related to loans and customers.
+  
+- **Objectives:**
+  
+  The goal is to classify transactions as either potentially fraudulent or non-fraudulent, with the target column being "Possivel_Fraude".
+  
+- **Results:**
+  
+  Results can be seen [Here](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/readme.md)
+<br>
+<br>
 
 **[WEC Analysis](https://github.com/FelipeLRoll/wec-analysis)**  
 
