@@ -8,6 +8,22 @@
 
 # **Data Science Portfolio**
 
+**[Default Prediction](https://github.com/FelipeLRoll/previsao-inadimplencia)**  
+
+![](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg)
+
+- **Description:**
+  
+  Default is a critical problem for financial institutions, as it directly impacts the cash flow and financial health of companies. Predicting in advance which customers are most likely to default allows companies to adopt preventive strategies, minimizing losses.
+  
+- **Objectives:**
+  
+  This project's main objective is to build a Machine Learning model that is capable of predicting customer default based on a set of financing contract data.
+  
+- **Results:**
+  
+  Results can be seen [Here](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readme.md)
+
 **[Fraud Detection](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
 ![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png)
